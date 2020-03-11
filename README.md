@@ -1,7 +1,7 @@
 # Proof-of-Work Mining Data
 
 Sources
----------------
+-------
 
 * [Popular Mining Devices - F2 Pool](https://www.f2pool.com/miners?currency_code=btc)
 
@@ -16,3 +16,6 @@ Sources
 * [Bitcoin Mining Network Update - December 2019](https://coinsharesgroup.com/research/bitcoin-mining-network-december-2019)
 * [Bitcoin Mining Network Update - June 2019](https://coinsharesgroup.com/research/bitcoin-mining-network-june-2019) 
 
+Reference
+---------
+[Crypto Mining 101 - Overview & Landscape of the Mining Industry](https://www.chrismccann.com/blog/crypto-mining-101-overview-and-landscape-of-the-mining-industry) - Chris McCann 

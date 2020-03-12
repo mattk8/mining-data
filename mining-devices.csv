@@ -1,4 +1,4 @@
-﻿Company,Device,Device Age (Months)(as of 03/2020) ,Hashrate (T),Power Consumption (W),Unit Power (W/T) #,Produced (24h) (BTC),Revenue (24h),Daily Cost$ /kWh,Profits (24h),Electricity Cost Rate ,Year Released,Month Released,,
+﻿Company,Device,Device Age (M)(03/2020) ,Hashrate (T),Power Consumption (W),Unit Power (W/T) #,Produced (24h) (BTC),Revenue (24h),Daily Cost$ /kWh,Profits (24h),Electricity Cost Rate ,Year Released,Month Released,,
 Bitmain,Antminer S19 Pro,1,110,3250,30,0.00167102,$ 13.24,$ 3.90,$ 9.34,29%,2020,2,,
 Bitmain,Antminer S19,1,95,3250,34,0.00144315,$ 11.44,$ 3.90,$ 7.54,34%,2020,2,,
 Hummer,Hummer Miner H9 Pro,1,84,3360,40,0.00127605,$ 10.11,$ 4.03,$ 6.08,40%,2020,2,,

@@ -6,7 +6,7 @@ The calculation divides total Bitcoin (BTC) hashpower by estimates of individual
 
 The WEIGHTED worksheet gives plugs for A, B and C as well as plugs to determine the relative weighting of A, B and C. This allows users to choose their own estimates, say high, medium, and low and choose the weight of those estimates to create a unified yearly hashpower estimate. 
 
-**Ways to build on this: **
+**Future Additions/Improvements:**
 
 * Make the variables bi-annually or quarterly.
 * Bring in detail from `mining-devices.csv` to come to more precise estimates/plugs.

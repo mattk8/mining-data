@@ -1,5 +1,17 @@
 # Proof-of-Work Mining Data
 
+**`global-device-estimates.xlsx`** is a model to estimate the number of mining devices deployed on the Bitcoin network at a given time.
+
+The calculation divides total Bitcoin (BTC) hashpower by estimates of individual device capacity to generate hash power.
+
+The WEIGHTED worksheet gives plugs for A, B and C as well as plugs to determine the relative weighting of A, B and C. This allows users to choose their own estimates, say high, medium, and low and choose the weight of those estimates to create a unified yearly hashpower estimate. 
+
+**Ways to build on this: **
+
+* Make the variables bi-annually or quarterly.
+* Bring in detail from `mining-devices.csv` to come to more precise estimates/plugs.
+* Use the energy consumption data in `mining-devices.csv` and Bitcoin energy consumption data for an alternative method.
+
 Sources
 -------
 

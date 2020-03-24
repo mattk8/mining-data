@@ -1,16 +1,36 @@
-# PoW Research
+# Mining & Proof-of-Work Research
 
+## Information Sources
+* Blockware Solutions
+* ARK Invest
+* CoinShares
+* F2 Pool
+* Miner Update
+
+## Unorganized
 * [The Anatomy of Proof-of-Work](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667) - Hugo Nguyen
-* [Miner Update](https://www.minerupdate.com/)
+
+
+## [Blockware Solutions](https://www.blockwaresolutions.com/)
+* [Understanding Bitcoin Market Participants – Vulnerabilities in the Price of Bitcoin Driven by Miners](https://www.blockwaresolutions.com/research-and-publications/2020-halving-analysis) - Blockware Solutions
+* [The Mining Market is Not Immune to Human Psychology](https://www.blockwaresolutions.com/research-and-publications/the-mining-market-is-not-immune-to-human-psychology)
+* [How Bitcoin Miners Adapt in a Bear Market](https://www.blockwaresolutions.com/research-and-publications/how-bitcoin-miners-adapt-in-a-bear-market)
+
+## [Miner Update](https://www.minerupdate.com/)
 * [Layer1 Launches Bitcoin Mining Containers in West Texas](https://www.minerupdate.com/news/miner-insights/layer1-launches-bitcoin-mining-containers-in-west-texas)
 * [Luxor Mining Interview – Hardware, Altcoins, & America Vs China](https://www.minerupdate.com/news/interview/luxor-mining-interview)
 * [SLP158 John Lee Quigley - How Does a Bitcoin Price Crash Impact Bitcoin Miners?](https://www.listennotes.com/podcasts/stephan-livera/slp158-john-lee-quigley-how-oH50u2AYMV7/)
     - Discussion of hashpower markets towards the end of the interview.
 * [MinerMovements #7](https://minerupdate.substack.com/p/minermovements-7?)
 
-## ARK -- Bitcoin Mining: The Evolution of A Multibillion Dollar Industry
+## CoinShares 
+
+
+# ARK Invest
+### ARK -- Bitcoin Mining: The Evolution of A Multibillion Dollar Industry
 https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARKInvest_031220_Whitepaper_BitcoinMining.pdf?hsCtaTracking=bdcc969c-a6ae-4273-9fa3-885386cf38f0%7C1962b92c-dd22-45b3-a620-1b01a683717c
 
+#### Footnotes
 1 Cryptocurrency Market Capitalizations.” CoinMarketCap, coinmarketcap.com/.
 
 2 “Mining.” Mining - Bitcoin Wiki, en.bitcoin.it/wiki/Mining.

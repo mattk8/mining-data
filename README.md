@@ -4,7 +4,7 @@
 
 The calculation divides total Bitcoin (BTC) hashpower by estimates of individual device capacity to generate hash power.
 
-The WEIGHTED worksheet gives plugs for A, B and C as well as plugs to determine the relative weighting of A, B and C. This allows users to choose their own estimates, say high, medium, and low and choose the weight of those estimates to create a unified yearly hashpower estimate. 
+The WEIGHTED worksheet gives plugs for A, B and C as well as plugs to determine the relative weighting of A, B and C. This allows users to choose their own estimates, say high, medium, and low and choose the weight of those estimates to create a unified yearly hashpower estimate.
 
 **Future Additions/Improvements:**
 
@@ -15,11 +15,11 @@ The WEIGHTED worksheet gives plugs for A, B and C as well as plugs to determine 
 Sources
 -------
 
-| Filename             | Contents               | Data Points                                                                                    | Source                                                                      |
-| -------------------- | ---------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| `mining-devices.csv` | Popular Mining Devices | Company, Device, Device Age, Hash Rate, Power Consumption, Year Released, Month Released, etc. | [F2 Pool](https://www.f2pool.com/miners?currency_code=btc)                  |
-| `hash-rate.csv`      | Historical Hash Rate   | Date, Hash Rate (TH/s)                                                                         | [Blockchain.com ](https://www.blockchain.com/charts/hash-rate?timespan=all) |
-
+| Filename                 | Contents                         | Data Points                                                                                    | Source                                                                      |
+| ------------------------ | -------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| `mining-devices.csv`     | Popular mining devices           | Company, Device, Device Age, Hash Rate, Power Consumption, Year Released, Month Released, etc. | [F2 Pool](https://www.f2pool.com/miners?currency_code=btc)                  |
+| `bitcoin_hashrate.csv`   | Historical hashrate              | Date, Hash Rate (TH/s)                                                                         | [Blockchain.com ](https://www.blockchain.com/charts/hash-rate?timespan=all) |
+| `monero_hashrate.xlsx`   | Monero hashrate and profitabiity |                                                                                                | [CoinMetrics](https://coinmetrics.io/)                                      |
 
 
 Reference
@@ -44,6 +44,9 @@ Reference
 ### Coinshares
 * [Bitcoin Mining Network Update - December 2019](https://coinsharesgroup.com/research/bitcoin-mining-network-december-2019)
 * [Bitcoin Mining Network Update - June 2019](https://coinsharesgroup.com/research/bitcoin-mining-network-june-2019)
+
+# CoinMetrics
+* [Data File Downloads](https://coinmetrics.io/community-network-data/#comm-files)
 
 ### Other
 * [Crypto Mining 101 - Overview & Landscape of the Mining Industry](https://www.chrismccann.com/blog/crypto-mining-101-overview-and-landscape-of-the-mining-industry) - Chris McCann

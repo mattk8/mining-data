@@ -45,7 +45,7 @@ Reference
 * [Bitcoin Mining Network Update - December 2019](https://coinsharesgroup.com/research/bitcoin-mining-network-december-2019)
 * [Bitcoin Mining Network Update - June 2019](https://coinsharesgroup.com/research/bitcoin-mining-network-june-2019)
 
-# CoinMetrics
+### CoinMetrics
 * [Data File Downloads](https://coinmetrics.io/community-network-data/#comm-files)
 
 ### Other

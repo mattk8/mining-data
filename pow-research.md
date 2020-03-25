@@ -23,11 +23,11 @@
     - Discussion of hashpower markets towards the end of the interview.
 * [MinerMovements #7](https://minerupdate.substack.com/p/minermovements-7?)
 
-## CoinShares 
+## CoinShares
 
 
-# ARK Invest
-### ARK -- Bitcoin Mining: The Evolution of A Multibillion Dollar Industry
+## ARK Invest
+### [Bitcoin Mining: The Evolution of A Multibillion Dollar Industry](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARKInvest_031220_Whitepaper_BitcoinMining.pdf?hsCtaTracking=bdcc969c-a6ae-4273-9fa3-885386cf38f0%7C1962b92c-dd22-45b3-a620-1b01a683717c)
 https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARKInvest_031220_Whitepaper_BitcoinMining.pdf?hsCtaTracking=bdcc969c-a6ae-4273-9fa3-885386cf38f0%7C1962b92c-dd22-45b3-a620-1b01a683717c
 
 #### Footnotes

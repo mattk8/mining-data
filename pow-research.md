@@ -7,8 +7,19 @@
 * F2 Pool
 * Miner Update
 
+
+## Cost of Production
+* [Bitcoin’s Cost of Production — A Model for Bitcoin Valuation](https://medium.com/coinmonks/bitcoins-cost-of-production-a-valuation-approach-for-bitcoin-dcd76951040a) - Data Dater
+* [Bitcoin’s Production Cost](https://medium.com/capriole/bitcoins-production-cost-88d889462ea7) - Charles Edwards
+* [BitcoinProductionCost.com](https://www.bitcoinproductioncost.com/)
+
+
+
+
 ## Unorganized
 * [The Anatomy of Proof-of-Work](https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667) - Hugo Nguyen
+* Podcast: [Once BITten - @JPBaric](https://open.spotify.com/episode/6Ts5RrmQLjxB8TBjzdbhSs?si=AOCx8GEKRci_D6piNGayEA)
+
 
 
 ## [Blockware Solutions](https://www.blockwaresolutions.com/)
